@@ -4,6 +4,9 @@
 * {
     box-sizing: border-box;
 }
+::selection {
+    color: tomato;
+}
 body,
 html {
     margin: 0;
@@ -20,7 +23,7 @@ html {
 .container {
     padding: 1rem;
     max-width: 1199px;
-    margin: 2rem auto;
+    margin: 0.5rem auto;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -34,6 +37,8 @@ html {
     gap: 10px;
 }
 .label {
+    font-size: 3rem;
+    font-weight: bold;
     color: #fff;
     text-align: center;
 }

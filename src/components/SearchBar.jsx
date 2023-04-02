@@ -18,7 +18,7 @@ export default function SearchBar({ onSubmit }) {
                 onSubmit={handleFormSubmit}
                 style={{ maxWidth: '400px', marginBottom: '20px' }}
             >
-                <label className="label">Search Images You Like</label>
+                <label className="label">Search Images:</label>
                 <input
                     className="input is-medium is-rounded"
                     onChange={handleChange}
