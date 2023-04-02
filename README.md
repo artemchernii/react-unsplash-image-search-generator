@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Unspleash API as a photo stock: https://unsplash.com/developers
+Unsplash API as a photo stock: https://unsplash.com/developers
 
 <img src="./cars_unsplash.png" width="1200" height="auto"/>
 
